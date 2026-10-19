@@ -1,6 +1,6 @@
 ### Hi, I'm JanitorHead
 
-Generalist. I pick up whatever problem looks interesting and see it through, from game maps to GPU driver bugs.
+Medical student and generalist. I pick up whatever problem looks interesting and see it through, from game maps to GPU driver bugs.
 
 **Website:** [janitorhead.github.io](https://janitorhead.github.io) · **Email:** janitorhead@icloud.com · **YouTube:** [@janitorhead](https://www.youtube.com/@janitorhead)
 
@@ -20,5 +20,9 @@ Immich's OpenVINO face detection broke for months on Intel NAS iGPUs. I isolated
 #### Toolbox
 
 TypeScript · Python · C# / WPF · QML · PHP · Shell · Docker · Linux · Unraid · Cloudflare
+
+#### Away from the keyboard
+
+Medicine is my real passion; I haven't finished the degree yet. The rest of the time goes to ham radio, retro gaming, fountain pens, musical instruments, and fixing whatever breaks.
 
 Open to collaborations and interesting problems. Email is the best way to reach me.
