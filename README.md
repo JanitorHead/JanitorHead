@@ -10,7 +10,7 @@ I'm not a professional developer, just stubborn about fixing things. I started p
 
 Medicine is my real passion. I haven't finished the degree yet, and where medicine meets technology is where I'd most like to end up.
 
-Away from the keyboard I repair and restore things: retro consoles and controllers, computers, CRT TVs and ham radio gear. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. On the air I mostly chase HF DX and work FT8. I also solder my own Arduino and ESP32 projects, take my medical notes with a fountain pen, and play guitar, piano and alto sax, all of them badly.
+Away from the keyboard I repair and restore things: retro consoles and controllers, computers, CRT TVs and ham radio gear. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. On the air I mostly chase DX on HF and work FT8. I also solder my own Arduino and ESP32 projects, take my medical notes with a fountain pen, and play guitar, piano and alto sax, all of them badly.
 
 #### Things I've built
 
