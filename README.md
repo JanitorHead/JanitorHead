@@ -4,6 +4,14 @@ Medical student and generalist. I pick up whatever problem looks interesting and
 
 **Website:** [janitorhead.github.io](https://janitorhead.github.io) · **Email:** janitorhead@icloud.com · **YouTube:** [@janitorhead](https://www.youtube.com/@janitorhead)
 
+#### About me
+
+I'm not a professional developer, just stubborn about fixing things. I started programming to solve my own problems, and it grew from there: first the tools I needed, then the ones other people needed too.
+
+Medicine is my real passion. I haven't finished the degree yet, and where medicine meets technology is where I'd most like to end up.
+
+Away from the keyboard I repair things: retro consoles and controllers, computers, CRT TVs and old radios. I restored my Kenwood TS-570D, then wrote it an app. On the air I mostly chase HF DX and FT8. I also solder my own Arduino and ESP32 projects, take my medical notes with a fountain pen, and play guitar, piano and alto sax, all of them badly.
+
 #### Things I've built
 
 - **[Maptridge](https://maptridge.pages.dev)**: interactive game maps you fill in as you play, without spoilers. The first map is Metroid (NES): one click per room, the game's real screens when you zoom in, and RetroAchievements live. [Video](https://youtu.be/dRmrtPjImUc) · [Feedback](https://github.com/JanitorHead/maptridge-feedback)
@@ -19,10 +27,8 @@ Immich's OpenVINO face detection broke for months on Intel NAS iGPUs. I isolated
 
 #### Toolbox
 
-TypeScript · Python · C# / WPF · QML · PHP · Shell · Docker · Linux · Unraid · Cloudflare
+TypeScript · Python · C# / WPF · QML · PHP · Shell · Docker · Linux · Unraid · Cloudflare · a soldering iron
 
-#### Away from the keyboard
+#### Open to
 
-Medicine is my real passion; I haven't finished the degree yet. The rest of the time goes to ham radio, retro gaming, fountain pens, musical instruments, and fixing whatever breaks.
-
-Open to collaborations and interesting problems. Email is the best way to reach me.
+Health-tech, open source and homelab tools, games and retro, or any problem that looks interesting. Email is the best way to reach me.
