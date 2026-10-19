@@ -1,6 +1,6 @@
 ### Hi, I'm JanitorHead
 
-Medical student, generalist and licensed ham radio operator. I pick up whatever problem looks interesting and see it through, from game maps to GPU driver bugs.
+Medical student, generalist and licensed ham radio operator. I like taking on problems that look interesting and seeing them through, from game maps to GPU driver bugs.
 
 **Website:** [janitorhead.github.io](https://janitorhead.github.io) · **Email:** janitorhead@icloud.com · **YouTube:** [@janitorhead](https://www.youtube.com/@janitorhead)
 
@@ -10,7 +10,7 @@ I'm not a professional developer, just stubborn about fixing things. I started p
 
 Medicine is my real passion. I haven't finished the degree yet, and where medicine meets technology is where I'd most like to end up.
 
-Away from the keyboard I repair and restore things: retro consoles and controllers, computers, CRT TVs and ham radio gear. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. On the air I mostly chase DX on HF and work FT8. I also solder my own Arduino and ESP32 projects, take my medical notes with a fountain pen, and play guitar, piano and alto sax, all of them badly.
+Away from the keyboard I like repairing and restoring things: retro consoles and controllers, computers, CRT TVs and ham radio gear. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. On the air I mostly chase DX on HF and work FT8, and I'm slowly learning CW. I also design and build my own electronics projects. Fountain pens are another hobby, mostly for how they feel to write with, and I play guitar, piano and alto sax, all of them badly.
 
 #### Things I've built
 
@@ -23,7 +23,7 @@ Away from the keyboard I repair and restore things: retro consoles and controlle
 
 #### Bug hunting upstream
 
-Immich's OpenVINO face detection broke for months on Intel NAS iGPUs. I isolated the cause to dynamic shapes, filed the upstream report with a self-contained repro ([openvino#36831](https://github.com/openvinotoolkit/openvino/issues/36831)), and my test script became the basis of the community workaround until the fix shipped.
+Immich's OpenVINO face detection broke for months on Intel NAS iGPUs. Working with Immich's maintainers, I narrowed it down to dynamic shapes, filed the upstream report with a self-contained repro ([openvino#36831](https://github.com/openvinotoolkit/openvino/issues/36831)), and my test script ended up as the basis of the community workaround until the fix shipped.
 
 #### Toolbox
 
