@@ -10,7 +10,11 @@ I'm not a professional developer, just stubborn about fixing things. I started p
 
 Medicine is my real passion. I haven't finished the degree yet, and where medicine meets technology is where I'd most like to end up.
 
-Away from the keyboard I like repairing and restoring things: retro consoles and controllers, computers, CRT TVs and ham radio gear. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. On the air I mostly chase DX on HF and work FT8, and I'm slowly learning CW. I also design and build my own electronics projects. Fountain pens are another hobby, mostly for how they feel to write with, and I play guitar, piano and alto sax, all of them badly.
+Away from the keyboard I like repairing and restoring things: retro consoles and controllers, computers, CRT TVs and ham radio gear. I also design and build my own electronics projects, and design and 3D print the parts they need on my Ender 3 S1.
+
+Ham radio is a big one. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. I love antenna theory, design and building; my latest build is a T2LT. On the air I mostly chase DX on HF and work FT8, and I'm slowly learning CW.
+
+Fountain pens are another hobby, mostly for how they feel to write with. I have two little dogs, and I play several musical instruments, all of them badly.
 
 #### Things I've built
 
@@ -27,7 +31,7 @@ Immich's OpenVINO face detection broke for months on Intel NAS iGPUs. Working wi
 
 #### Toolbox
 
-TypeScript · Python · C# / WPF · QML · PHP · Shell · Docker · Linux · Unraid · Cloudflare · a soldering iron
+TypeScript · Python · C# / WPF · QML · PHP · Shell · Docker · Linux · Unraid · Cloudflare · a soldering iron · a 3D printer
 
 #### Open to
 
