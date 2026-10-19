@@ -1,6 +1,6 @@
 ### Hi, I'm JanitorHead
 
-Medical student and generalist. I pick up whatever problem looks interesting and see it through, from game maps to GPU driver bugs.
+Medical student, generalist and licensed ham radio operator. I pick up whatever problem looks interesting and see it through, from game maps to GPU driver bugs.
 
 **Website:** [janitorhead.github.io](https://janitorhead.github.io) · **Email:** janitorhead@icloud.com · **YouTube:** [@janitorhead](https://www.youtube.com/@janitorhead)
 
@@ -10,7 +10,7 @@ I'm not a professional developer, just stubborn about fixing things. I started p
 
 Medicine is my real passion. I haven't finished the degree yet, and where medicine meets technology is where I'd most like to end up.
 
-Away from the keyboard I repair things: retro consoles and controllers, computers, CRT TVs and old radios. I restored my Kenwood TS-570D, then wrote it an app. On the air I mostly chase HF DX and FT8. I also solder my own Arduino and ESP32 projects, take my medical notes with a fountain pen, and play guitar, piano and alto sax, all of them badly.
+Away from the keyboard I repair and restore things: retro consoles and controllers, computers, CRT TVs and ham radio gear. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. On the air I mostly chase HF DX and work FT8. I also solder my own Arduino and ESP32 projects, take my medical notes with a fountain pen, and play guitar, piano and alto sax, all of them badly.
 
 #### Things I've built
 
@@ -19,7 +19,7 @@ Away from the keyboard I repair things: retro consoles and controllers, computer
 - **[Top Processes](https://github.com/JanitorHead/unraid-topprocesses)**: an Unraid dashboard tile that shows which processes are using the CPU and memory.
 - **[scrutiny-bridge](https://github.com/JanitorHead/scrutiny-bridge)**: per-disk, per-attribute alert filtering for Scrutiny's SMART notifications, with readable Telegram alerts.
 - **[Theme Switch](https://github.com/JanitorHead/unraid-themeswitch)**: a one-click light/dark toggle for Unraid that can follow your OS.
-- **[TS-570D Remote](https://github.com/JanitorHead/ts570d_remote)**: a front-panel-style Windows app to control a Kenwood TS-570D radio over CAT.
+- **[TS-570D Remote](https://github.com/JanitorHead/ts570d_remote)**: a front-panel-style Windows app to control a Kenwood TS-570D HF transceiver over CAT.
 
 #### Bug hunting upstream
 
