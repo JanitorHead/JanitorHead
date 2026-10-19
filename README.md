@@ -10,7 +10,7 @@ I'm not a professional developer, just stubborn about fixing things. I started p
 
 Medicine is my real passion. I haven't finished the degree yet, and where medicine meets technology is where I'd most like to end up.
 
-Away from the keyboard I like repairing and restoring things: retro consoles, computers, CRT TVs and ham radio gear. I also design and build my own electronics projects, and design and 3D print the parts they need on my Ender 3 S1.
+Away from the keyboard I like repairing and restoring things: retro consoles, computers, CRT TVs and ham radio gear. I also design and build electronics: right now a power supply for iontophoresis therapy, and before that a battery-powered DMR hotspot on a Raspberry Pi Zero 2 W. On the modding side, I've installed Tim Worthington's N64RGB mod. When a project needs parts, I design them and print them on my Ender 3 S1.
 
 Ham radio is a big one. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. I love antenna theory, design and building; my latest build is a T2LT. On the air I mostly chase DX on HF and work FT8, and I'm slowly learning CW.
 
