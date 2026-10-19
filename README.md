@@ -14,7 +14,7 @@ Away from the keyboard I like repairing and restoring things: retro consoles, co
 
 Ham radio is a big one. I restored my Kenwood TS-570D HF transceiver, then wrote it an app. I love antenna theory, design and building; my latest build is a T2LT. On the air I mostly chase DX on HF and work FT8, and I'm slowly learning CW.
 
-Fountain pens are another hobby, mostly for how they feel to write with; my favorite is a Pilot E95s. I have two little dogs, and I play several musical instruments, all of them badly.
+Fountain pens are another hobby, mostly for how they feel to write with; my favorite is a Pilot E95s. I have two dogs, and I play several musical instruments, all of them badly.
 
 #### Things I've built
 
