@@ -18,7 +18,7 @@ Fountain pens are another hobby, mostly for how they feel to write with; my favo
 
 #### Things I've built
 
-- **[Maptridge](https://maptridge.pages.dev)**: interactive game maps you fill in as you play, without spoilers. The first map is Metroid (NES): one click per room, the game's real screens when you zoom in, and RetroAchievements live. [Video](https://youtu.be/dRmrtPjImUc) · [Feedback](https://github.com/JanitorHead/maptridge-feedback)
+- **[Maptridge](https://maptridge.pages.dev)**: interactive game maps you fill in as you play, without spoilers. The first map is Metroid (NES): one click per room, the game's real screens when you zoom in, and, if you play on an emulator signed in to RetroAchievements, your achievements ticked on the map as you unlock them. [Video](https://youtu.be/dRmrtPjImUc) · [Feedback](https://github.com/JanitorHead/maptridge-feedback)
 - **[Quotatank](https://github.com/JanitorHead/omarchy-quotatank)**: every AI coding limit, account and dollar in the Omarchy menu bar, across 50 providers. Listed in the Omarchy plugin marketplace.
 - **[Top Processes](https://github.com/JanitorHead/unraid-topprocesses)**: an Unraid dashboard tile that shows which processes are using the CPU and memory.
 - **[scrutiny-bridge](https://github.com/JanitorHead/scrutiny-bridge)**: per-disk, per-attribute alert filtering for Scrutiny's SMART notifications, with readable Telegram alerts.
