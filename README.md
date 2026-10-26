@@ -1,6 +1,6 @@
 ### Hi, I'm JanitorHead
 
-Medical student, generalist and licensed ham radio operator. I like taking on problems that look interesting and seeing them through, from game maps to GPU driver bugs.
+I'm a medical student. In my free time I repair old electronics, play with ham radio and write small tools when I need one. Sometimes they turn out useful to other people too.
 
 **Website:** [janitorhead.github.io](https://janitorhead.github.io) · **Email:** janitorhead@icloud.com · **YouTube:** [@janitorhead](https://www.youtube.com/@janitorhead) · **Ko-fi:** [ko-fi.com/janitorhead](https://ko-fi.com/janitorhead)
 
