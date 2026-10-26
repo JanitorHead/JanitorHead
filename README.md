@@ -2,7 +2,7 @@
 
 Medical student, generalist and licensed ham radio operator. I like taking on problems that look interesting and seeing them through, from game maps to GPU driver bugs.
 
-**Website:** [janitorhead.github.io](https://janitorhead.github.io) · **Email:** janitorhead@icloud.com · **YouTube:** [@janitorhead](https://www.youtube.com/@janitorhead)
+**Website:** [janitorhead.github.io](https://janitorhead.github.io) · **Email:** janitorhead@icloud.com · **YouTube:** [@janitorhead](https://www.youtube.com/@janitorhead) · **Ko-fi:** [ko-fi.com/janitorhead](https://ko-fi.com/janitorhead)
 
 #### About me
 
@@ -24,6 +24,8 @@ Fountain pens are another hobby, mostly for how they feel to write with; my favo
 - **[scrutiny-bridge](https://github.com/JanitorHead/scrutiny-bridge)**: per-disk, per-attribute alert filtering for Scrutiny's SMART notifications, with readable Telegram alerts.
 - **[Theme Switch](https://github.com/JanitorHead/unraid-themeswitch)**: a one-click light/dark toggle for Unraid that can follow your OS.
 - **[TS-570D Remote](https://github.com/JanitorHead/ts570d_remote)**: a front-panel-style Windows app to control a Kenwood TS-570D HF transceiver over CAT.
+
+Everything here is free. If something I've built helps you, you can [support my work on Ko-fi](https://ko-fi.com/janitorhead).
 
 #### Bug hunting upstream
 
